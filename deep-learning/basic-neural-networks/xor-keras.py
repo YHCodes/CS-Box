@@ -27,7 +27,7 @@ xor.add(Activation("softmax"))
 
 xor.compile(loss="categorical_crossentropy", optimizer="adam", metrics=['accuracy'])
 
-# Uncomment this line to print the model architecture
+# print the model architecture
 xor.summary()
 
 # Fitting the model
