@@ -1,5 +1,9 @@
 [TOC]
 
+# Neural Networks
+
+
+
 ## 2. Implementing Gradient Descent
 
 ### 2.1 Mean Squared Error Function
@@ -122,7 +126,7 @@ multiple input units and multiple hidden units, the weights between them will re
 - Each **row** in the matrix will correspond to the weights **leading out** of a **single input unit**
 - Each **column** will correspond to the weights **leading in** to a **single hidden unint**.
 
-![](/Users/liyuanhui/CS-Box/deep-learning/basic-neural-networks/pics/weights_matrix.png)
+![](pics/weights_matrix.png)
 
 **initialize weights:**
 
