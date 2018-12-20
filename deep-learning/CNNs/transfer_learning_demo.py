@@ -25,9 +25,9 @@ our folders and into Keras in an automated way.
 
 from keras.applications.resnet50 import ResNet50, preprocess_input
 from keras.preprocessing.image import ImageDataGenerator
-from keras.layers import Dense, Activation, Flatten, Dropout
-from keras.models import Sequential, Model
-from keras.optimizers import SGD, Adam
+from keras.layers import Dense, Flatten, Dropout
+from keras.models import Model
+from keras.optimizers import Adam
 import matplotlib.pyplot as plt
 
 TRAIN_DIR = "food_dataset"
@@ -40,7 +40,6 @@ BATCH_SIZE = 8
 base_model = ResNet50(weights='imagenet',
                       include_top=False,
                       input_shape=(HEIGHT, WIDTH, 3))
-
 
 # 1> create a data generator to actually get our data from
 #    our folders and into Keras in an automated way.
