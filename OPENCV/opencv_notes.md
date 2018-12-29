@@ -32,3 +32,7 @@
 
 **5. Black Hat** : It is the difference between the closing and its input image
 
+#### Hit-or-Miss
+
+- The Hit-or-Miss transformation is useful to find patterns in binary images.
+- ​

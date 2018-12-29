@@ -18,7 +18,6 @@ our folders and into Keras in an automated way.
 
 3.Popping layers
 
-
 4. Train it
 
 """
