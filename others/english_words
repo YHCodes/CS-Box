@@ -8,6 +8,11 @@ occluded objects   被遮挡的物体
 slanted objects    倾斜的物体
 high accuracy is obtained by ···   通过···获得了高精度
 citations   引用
+not trivial 重要的
+Receptive Field Block Net
+feature discriminability and robustness.
+category agnostic 类别不可知
+universally unique identifiers, uuid, 唯一标识符
 
 专业术语
 Semantic Segmentation   语义分割
@@ -15,3 +20,4 @@ Instance Segmentation   实例分割
 Non Maximum Suppression (NMS)  非最大抑制
 region proposal
 Random Forests 随机森林
+Region-based Convolutional Neural Networks (R-CNN)

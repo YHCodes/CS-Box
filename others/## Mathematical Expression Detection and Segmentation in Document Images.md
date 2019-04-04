@@ -1,8 +1,6 @@
 [TOC]
 
-
-
-# ## Mathematical Expression Detection and Segmentation in Document Images
+# Mathematical Expression Detection and Segmentation in Document Images
 
 
 
