@@ -13,5 +13,3 @@ class MyLayer(layers.Layer):
 
         self.weight = tf.Variable(initial_value=w_init(
             shape=(input_dim, unit), dtype=tf.float32), trainable=True)
-
-        b_init
